@@ -1,5 +1,7 @@
-write a program to print floyd's triangle using pattern method
-====================================================================================
+- write a program to print floyd's triangle using pattern method
+
+--
+
 c=0
 
 for i in range(1,5):
